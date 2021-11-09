@@ -1,3 +1,3 @@
-# cytoscope_sample
-Cytoscope js with reactjs
+# cytoscape_sample
+cytoscape  js with reactjs
 enjoy!!
